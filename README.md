@@ -38,7 +38,7 @@ Solving the right problem at the right time matters more than building complex s
 
 - The project is no longer live  
 - The original hosting account is no longer accessible  
-- Performance data was later analyzed using Google Search Console  
+- Performance data was later analyzed using Google Search Console which is connected to old github account which is still acessable.  
 
 Screenshots are included as proof of usage and traffic.
 
