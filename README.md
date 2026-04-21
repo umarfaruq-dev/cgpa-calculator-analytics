@@ -10,12 +10,14 @@ Over time, it evolved into a widely used utility, gaining significant traction t
 
 ## Impact & Performance
 
+### 📈 Traffic & CTR Trends
+![Traffic Trends](screenshots/Screenshot%202026-04-21%20003659.png)
+
 - 7.7K+ clicks from Google Search  
 - ~23K impressions  
 - ~32% Click-Through Rate (CTR)  
 - Ranked on the first page of Google  
 
-### 📊 Google Search Console Overview
 ![Search Console Overview](screenshots/Screenshot%202026-04-21%20003245.png)
 
 ---
@@ -32,15 +34,6 @@ Solving the right problem at the right time matters more than building complex s
 - Gained traction organically via Google Search  
 - Usage peaked during exam/result cycles  
 - Archived as the R20 regulation cycle concluded with the final batch  
-
----
-
-## Proof of Usage
-
-### 📈 Traffic & CTR Trends
-![Traffic Trends](screenshots/Screenshot%202026-04-21%20003659.png)
-
-Screenshots are included as proof of usage and traffic.
 
 ---
 
