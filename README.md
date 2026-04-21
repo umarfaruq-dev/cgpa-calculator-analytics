@@ -15,7 +15,8 @@ Over time, it evolved into a widely used utility, gaining significant traction t
 - ~32% Click-Through Rate (CTR)  
 - Ranked on the first page of Google  
 
-The application experienced recurring traffic spikes during academic result cycles, indicating strong real-world demand.
+### 📊 Google Search Console Overview
+![Search Console Overview](screenshots/Screenshot%202026-04-21%20003245.png)
 
 ---
 
@@ -34,13 +35,20 @@ Solving the right problem at the right time matters more than building complex s
 
 ---
 
+## Proof of Usage
+
+### 📈 Traffic & CTR Trends
+![Traffic Trends](screenshots/Screenshot%202026-04-21%20003659.png)
+
+Screenshots are included as proof of usage and traffic.
+
+---
+
 ## Note
 
 - The project is no longer live  
 - The original hosting account is no longer accessible  
-- Performance data was later analyzed using Google Search Console which is connected to old github account which is still acessable.  
-
-Screenshots are included as proof of usage and traffic.
+- Performance data was later analyzed using Google Search Console connected to the old GitHub account (still accessible)
 
 ---
 
@@ -49,15 +57,6 @@ Screenshots are included as proof of usage and traffic.
 - HTML  
 - CSS  
 - JavaScript  
-
----
-
-## Proof of Usage
-
-Refer to the `/screenshots` folder for:
-
-- Google Search Console analytics (clicks, impressions, CTR)  
-- Traffic trends over time  
 
 ---
 
@@ -73,5 +72,4 @@ Refer to the `/screenshots` folder for:
 
 ## Author
 
-Shaik Umar Faruq  
 LinkedIn: https://www.linkedin.com/in/shaik-umar-faruq-0b3645279/
